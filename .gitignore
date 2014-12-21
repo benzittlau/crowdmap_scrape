@@ -1,0 +1,5 @@
+images/*
+out.zip
+.ruby-gemset
+.ruby-version
+.DS_store
